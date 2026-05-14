@@ -66,6 +66,9 @@ java DocsViewerURLGenerator
 - Oracle | URLEncoder (Java Platform SE 8 ): https://docs.oracle.com/javase/jp/8/docs/api/java/net/URLEncoder.html
 - Qiita | Javaの例外処理について: https://qiita.com/pitan109/items/c9910edddc007126df41
 
+## ライセンス
+Unlicense license
+
 # English
 ## Overview
 This program converts a normal file URL into a Google Docs Viewer URL. It is intended to enable embedding documents (such as PDFs) in a browser using Google Docs Viewer.
@@ -132,3 +135,6 @@ Notes:
 - POTEPAN STYLE | 【Java】URLをエンコード・デコードする方法についてサンプル付きで解説！: https://style.potepan.com/articles/28793.html
 - Oracle | URLEncoder (Java Platform SE 8 ): https://docs.oracle.com/javase/jp/8/docs/api/java/net/URLEncoder.html
 - Qiita | Javaの例外処理について: https://qiita.com/pitan109/items/c9910edddc007126df41
+
+## LICENSE
+Unlicense license
